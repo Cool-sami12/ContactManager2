@@ -154,3 +154,10 @@ C:\Users\SAMUEL\source\repos\ContactManager2\ContactManager2\bin\Debug\net5.0\ru
 C:\Users\SAMUEL\source\repos\ContactManager2\ContactManager2\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\SAMUEL\source\repos\ContactManager2\ContactManager2\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\SAMUEL\source\repos\ContactManager2\ContactManager2\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\SAMUEL\source\repos\ContactManager2\ContactManager2\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\SAMUEL\source\repos\ContactManager2\ContactManager2\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\SAMUEL\source\repos\ContactManager2\ContactManager2\bin\Debug\net5.0\System.Web.Http.WebHost.dll
+C:\Users\SAMUEL\source\repos\ContactManager2\ContactManager2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SAMUEL\source\repos\ContactManager2\ContactManager2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\SAMUEL\source\repos\ContactManager2\ContactManager2\bin\Debug\net5.0\Swashbuckle.Core.dll
+C:\Users\SAMUEL\source\repos\ContactManager2\ContactManager2\bin\Debug\net5.0\WebActivatorEx.dll
